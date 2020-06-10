@@ -1,0 +1,14 @@
+[
+  {
+    "operation": "shift",
+    "spec": {
+      "items": {
+        "item": {
+          "*": {
+            "@(0,type)": "@(0,id)"
+          }
+        }
+      }
+    }
+  }
+]
